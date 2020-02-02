@@ -391,10 +391,10 @@ header .highlight{
 	#reviewSect td:nth-of-type(2):before{content: "Music";}
 	#reviewSect td:nth-of-type(3):before{content: "Gameplay";}
 	#reviewSect td:nth-of-type(4):before{content: "Replayability";}
-
-
-
 	
+	#gameBanner .backImg{
+		background-position: -600px -300px;
+	}
 
 }
 
