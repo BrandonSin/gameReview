@@ -309,6 +309,11 @@ header .highlight{
 
 /*review page */
 
+.date p {
+	width: 80%;
+	margin: auto;
+}
+
 #reviewSect .review p {
 	margin: auto;
 	overflow: hidden;
